@@ -1,2 +1,5 @@
 # MDVRP_EA
-EA for MDVRP solving
+EA for MDVRP solving.
+
+The system uses an extremely crossover-intense approach alongside crowding (elitism) to achieve highly-competitive (course-leading) results in less than 150 generations---often substantially less.
+
